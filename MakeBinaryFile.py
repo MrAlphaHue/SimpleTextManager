@@ -53,8 +53,8 @@ def makeBinaryByXlsx(work_book_structs):
             file.write(utf8_encode_base)
 
             ##
-            file_proejct = open(ConstManage.project_binary_path + "/" + file_name + ".bytes", "wb")
-            file_proejct.write(utf8_encode_base)
+            #file_proejct = open(ConstManage.project_binary_path + "/" + file_name + ".bytes", "wb")
+            #file_proejct.write(utf8_encode_base)
     
 
 print("time :", time.time() - start)  # 현재시각 - 시작시간 = 실행 시간
