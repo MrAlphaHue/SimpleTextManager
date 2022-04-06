@@ -1,0 +1,2 @@
+# SimpleTextManager
+Excel-Unity Text
